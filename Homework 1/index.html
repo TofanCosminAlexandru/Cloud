@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Homework 1</title>
+    <script src="https://api.mqcdn.com/sdk/mapquest-js/v1.3.0/mapquest.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://api.mqcdn.com/sdk/mapquest-js/v1.3.0/mapquest.css"/>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="search">
+    <input id="cityName" type="text" name="cityName" placeholder="Scrie un nume de oras">
+    <button onclick="getAddress()">Cauta</button>
+    <hr style="width: 80%">
+    <form>
+        <select id="mySelect"></select>
+    </form>
+    <button onclick="getInfo()">Informatii eveniment</button>
+</div>
+
+<div id="info">
+    <p id="textInfo"></p>
+    <img id="img_cover">
+    <p id="from"></p>
+    <p id="to"></p>
+    <div id="map"></div>
+</div>
+
+<script src="home.js"></script>
+</body>
+</html>
+
+<!--node node_modules/facebook-events-by-location/index.js-->

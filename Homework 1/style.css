@@ -1,0 +1,67 @@
+body {
+    align-items: center;
+    display: block;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search {
+    display: block;
+    text-align: center;
+    width: 70%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    bottom: 8px;
+    margin: 0 auto 8px;
+}
+
+#cityName {
+    display: block;
+    margin: 8px auto;
+}
+
+.search button {
+    display: block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px auto;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.search #cityName, .search button {
+    display: list-item;
+}
+
+#mySelect {
+    width: 90%;
+}
+
+#info {
+    top: 8px;
+    display: block;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#info #img_cover {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#info #map {
+    height: 500px;
+    width: 100%;
+    margin: 0 auto;
+    display: inline-block
+}
