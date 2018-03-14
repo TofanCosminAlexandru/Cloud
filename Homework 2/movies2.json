@@ -1,0 +1,164 @@
+[
+        {
+            "id": 11,
+            "title": "Apocalypto",
+            "year": "2006",
+            "runtime": "139",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "director": "Mel Gibson",
+            "actors": "Rudy Youngblood, Dalia Hernández, Jonathan Brewer, Morris Birdyellowhead",
+            "plot": "As the Mayan kingdom faces its decline, the rulers insist the key to prosperity is to build more temples and offer human sacrifices. Jaguar Paw, a young man captured for sacrifice, flees to avoid his fate.",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTM1NjYyNTY5OV5BMl5BanBnXkFtZTcwMjgwNTMzMQ@@._V1_SX300.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Taxi Driver",
+            "year": "1976",
+            "runtime": "113",
+            "genres": [
+                "Crime",
+                "Drama"
+            ],
+            "director": "Martin Scorsese",
+            "actors": "Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito",
+            "plot": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+        },
+        {
+            "id": 13,
+            "title": "No Country for Old Men",
+            "year": "2007",
+            "runtime": "122",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "director": "Ethan Coen, Joel Coen",
+            "actors": "Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson",
+            "plot": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Planet 51",
+            "year": "2009",
+            "runtime": "91",
+            "genres": [
+                "Animation",
+                "Adventure",
+                "Comedy"
+            ],
+            "director": "Jorge Blanco, Javier Abad, Marcos Martínez",
+            "actors": "Jessica Biel, John Cleese, Gary Oldman, Dwayne Johnson",
+            "plot": "An alien civilization is invaded by Astronaut Chuck Baker, who believes that the planet was uninhabited. Wanted by the military, Baker must get back to his ship before it goes into orbit without him.",
+            "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTUyOTAyNTA5Ml5BMl5BanBnXkFtZTcwODU2OTM0Mg@@._V1_SX300.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Looper",
+            "year": "2012",
+            "runtime": "119",
+            "genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "director": "Rian Johnson",
+            "actors": "Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano",
+            "plot": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.",
+            "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTY3NTY0MjEwNV5BMl5BanBnXkFtZTcwNTE3NDA1OA@@._V1_SX300.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Corpse Bride",
+            "year": "2005",
+            "runtime": "77",
+            "genres": [
+                "Animation",
+                "Drama",
+                "Family"
+            ],
+            "director": "Tim Burton, Mike Johnson",
+            "actors": "Johnny Depp, Helena Bonham Carter, Emily Watson, Tracey Ullman",
+            "plot": "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.",
+            "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_SX300.jpg"
+        },
+        {
+            "id": 17,
+            "title": "The Third Man",
+            "year": "1949",
+            "runtime": "93",
+            "genres": [
+                "Film-Noir",
+                "Mystery",
+                "Thriller"
+            ],
+            "director": "Carol Reed",
+            "actors": "Joseph Cotten, Alida Valli, Orson Welles, Trevor Howard",
+            "plot": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwNzMzMTQ0Ml5BMl5BanBnXkFtZTgwNjExMzUwNjE@._V1_SX300.jpg"
+        },
+        {
+            "id": 18,
+            "title": "The Beach",
+            "year": "2000",
+            "runtime": "119",
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Romance"
+            ],
+            "director": "Danny Boyle",
+            "actors": "Leonardo DiCaprio, Daniel York, Patcharawan Patarakijjanon, Virginie Ledoyen",
+            "plot": "Twenty-something Richard travels to Thailand and finds himself in possession of a strange map. Rumours state that it leads to a solitary beach paradise, a tropical bliss - excited and intrigued, he sets out to find it.",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2ViYTFiZmUtOTIxZi00YzIxLWEyMzUtYjQwZGNjMjNhY2IwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Scarface",
+            "year": "1983",
+            "runtime": "170",
+            "genres": [
+                "Crime",
+                "Drama"
+            ],
+            "director": "Brian De Palma",
+            "actors": "Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio",
+            "plot": "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzOTM4MzEwNl5BMl5BanBnXkFtZTgwMzU1OTc1MDE@._V1_SX300.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Sid and Nancy",
+            "year": "1986",
+            "runtime": "112",
+            "genres": [
+                "Biography",
+                "Drama",
+                "Music"
+            ],
+            "director": "Alex Cox",
+            "actors": "Gary Oldman, Chloe Webb, David Hayman, Debby Bishop",
+            "plot": "Morbid biographical story of Sid Vicious, bassist with British punk group the Sex Pistols, and his girlfriend Nancy Spungen. When the Sex Pistols break up after their fateful US tour, ...",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNjA5NzY4M15BMl5BanBnXkFtZTcwNjQ2NzI5NA@@._V1_SX300.jpg"
+        },
+        {
+            "id": 21,
+            "title": "Black Swan",
+            "year": "2010",
+            "runtime": "108",
+            "genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "director": "Darren Aronofsky",
+            "actors": "Natalie Portman, Mila Kunis, Vincent Cassel, Barbara Hershey",
+            "plot": "A committed dancer wins the lead role in a production of Tchaikovsky's \"Swan Lake\" only to find herself struggling to maintain her sanity.",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX300.jpg"
+        }
+ ]
