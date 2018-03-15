@@ -47,7 +47,11 @@ class Server(BaseHTTPRequestHandler):
         self.end_headers()
 
     def do_GET(self):
-        if re.search(r'/movies/id=', self.path):
+        path = self.path+"/"
+        print(path)
+        path = path.split("/")
+        print(path)
+        if re.search(r'/movies/id=', self.path) and path[3] == '':
             path = self.path
             path = path.split("/")
             id = path[2].split("=")
@@ -63,7 +67,7 @@ class Server(BaseHTTPRequestHandler):
                 self.send_error(404,
                                 'Not Found - The requested resource could not be found but may be available in the '
                                 'future. Subsequent requests by the client are permissible')
-        elif re.search(r'/movies', self.path):
+        elif re.search(r'/movies', self.path) and path[2] == '':
             self.send_response(200, "Ok")
             self.send_header('Content-Type', 'application/json')
             self.end_headers()
